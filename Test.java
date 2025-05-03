@@ -1,3 +1,3 @@
 public class Test 
   { public static void main(String[] args)
-     { Systen.out.println("Version 1") } }
+     { Systen.out.println("Version 2") } }
